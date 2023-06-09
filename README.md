@@ -4,7 +4,7 @@
 #### Data: 08/06/2023
 -----------------------------------------
 ### Descrição
-O pacote "image_processing-test" é usado para:
+O pacote "image-processing-package-test" é usado para:
 
 - Módulo "Processing":
   - Correspondência de histograma;
